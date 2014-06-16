@@ -1,3 +1,5 @@
-<?php
-info();
-?>
+<html>
+<body>
+hello
+</body>
+</html>
